@@ -1,29 +1,26 @@
-# jour
+# Jour
 
-## Project setup
-```
-npm install
-```
+## The idea
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+It's an interface designed for a rapsberry pi touch screen module, to display essential information such as time, weather, tasks and agenda.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## What's under the hood
 
-### Run your tests
-```
-npm run test
-```
+* Vue CLI 3
+* Boostrap 4
+* JavaScript
+* HTML
+* CSS
+* APIs
 
-### Lints and fixes files
-```
-npm run lint
-```
+## APIs
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* [OpenWeatherMap](https://openweathermap.org/api)
+* [Google Calendar](https://developers.google.com/calendar/)
+* [Google Tasks](https://developers.google.com/tasks/)
+* Still deciding on the clock one. :)
+
+## Who's behind this??
+
+Hi, I'm Morgana, I got my husband a raspberry pi 3 as a gift,but since he is not doing anything with it so far, I decided to make it help our morning routine, and since I am learning VueJs, I decided to build it using this framework.
+If you want to know more about me or contact me: [MORFSM](https://morfsm.com)
